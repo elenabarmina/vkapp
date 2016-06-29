@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VKApp</string>
+    <integer name="com_vk_sdk_AppId">5525553</integer>
+
+    <string name="login_button">Авторизоваться</string>
+
+    <string name="main_menu_logout_button">Выйти</string>
+    <string name="main_menu_photo_button">Фото</string>
+    <string name="main_menu_record_button">Запись</string>
+
+    <string name="recording_button">Записать</string>
+</resources>
